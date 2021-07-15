@@ -1,5 +1,6 @@
 # CentuDY
-ASP.NET project for medicine company.
+ASP.NET project for medicine company. 
+*The JavaScript file in this repository is only for the ASP.NET Client.
 
 CentuDY is a newly established medicine shop in Bluejack Land. To start its business, it needs to create a website for their shop. In that website, people can find information about the medicines which CentuDY sells and buy it. This website also allows admin to manage its users, medicines and all transactions made by users.
 As a web developer, you are asked to create a website using ASP.NET for this online shop. You are also required to use Domain Driven Design method to develop the website. Please note that using web service is optional in this project. The required layers are:
